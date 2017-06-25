@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	
-	<title type="text" xml:lang="en">Biomedical Research Laboratory</title>
+	<title type="text" xml:lang="en">Biomedical Research</title>
     <link type="application/atom+xml" href="http://biomed.id/blog/blog.xml" rel="self"/>
     <link href="http://biomed.id/"/>
-	<updated>2017-06-25T20:06:51+08:00</updated>
+	<updated>2017-06-25T20:17:53+08:00</updated>
     <id>http://biomed.id/</id>
 	<author>
 		<name>the Sampa group</name>
